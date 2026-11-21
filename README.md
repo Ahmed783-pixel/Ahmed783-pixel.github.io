@@ -14,4 +14,4 @@ Upload the contents of this folder to your portfolio repository, keeping the `pr
 
 The CV page summarizes the team repository at https://github.com/yxLuo06/Computer-Vison-Course-project, reviewed October 21, 2026. Proposed methods are labeled as in progress, team members are credited, and the inline SVG illustrations are concepts rather than experimental results.
 
-## Website LINK: https://ahmed783-pixel.github.io/
+Website LINK: https://ahmed783-pixel.github.io/
